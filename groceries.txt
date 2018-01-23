@@ -4,14 +4,12 @@ Red Pepper
 Orange Juice
 Milk
 Cookies
-Zucchini
 Flour
 Sugar
 Cheese
 Chicken
 Yogurt
 Salt
-Ham
 Avocado
 Cereal
 Muffin
@@ -20,3 +18,5 @@ Cream Cheese
 Pasta
 Lettuce
 
+Ice Cream
+Strawberry
